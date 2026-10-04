@@ -1,0 +1,349 @@
+- generic [active] [ref=f3e1]:
+  - generic [ref=f3e2]:
+    - menubar [ref=f3e9]:
+      - textbox [ref=f3e10]
+      - table [ref=f3e11]:
+        - rowgroup [ref=f3e12]:
+          - row [ref=f3e13]:
+            - menuitem "CRM/SFA" [ref=f3e14]
+            - menuitem [ref=f3e15]:
+              - link "Docs Wiki" [ref=f3e16] [cursor=pointer]:
+                - /url: http://www.opentaps.org/docs/?externalLoginKey=EL45632197069
+            - menuitem [ref=f3e17]:
+              - link "eCommerce" [ref=f3e18] [cursor=pointer]:
+                - /url: /ecommerce/control/main?externalLoginKey=EL45632197069
+    - link [ref=f3e20] [cursor=pointer]:
+      - /url: /opentaps/
+      - img "opentaps CRM" [ref=f3e21]
+  - generic [ref=f3e22]:
+    - generic [ref=f3e23]:
+      - text: democsr |
+      - link "Profile" [ref=f3e24] [cursor=pointer]:
+        - /url: /crmsfa/control/myProfile
+      - text: "|"
+      - link "Shortcuts" [ref=f3e25] [cursor=pointer]:
+        - /url: javascript:showKeyboardShortcutsHelp();
+      - text: "|"
+      - link "Logout" [ref=f3e26] [cursor=pointer]:
+        - /url: /crmsfa/control/logout
+    - generic [ref=f3e27]:
+      - table [ref=f3e36]:
+        - rowgroup [ref=f3e37]:
+          - row [ref=f3e38]:
+            - cell [ref=f3e39]:
+              - textbox [ref=f3e43]
+            - cell [ref=f3e44]:
+              - table [ref=f3e48] [cursor=pointer]:
+                - rowgroup [ref=f3e49]:
+                  - row "Search" [ref=f3e50]:
+                    - cell [ref=f3e51]
+                    - cell [ref=f3e53]:
+                      - emphasis [ref=f3e54]:
+                        - button "Search" [ref=f3e55]
+                    - cell [ref=f3e56]
+      - link [ref=f3e58] [cursor=pointer]:
+        - /url: http://www.opentaps.org/contact
+        - img "Get help from an opentaps Partner" [ref=f3e59]
+  - list:
+    - listitem [ref=f3e61]:
+      - link "My Home" [ref=f3e67] [cursor=pointer]:
+        - /url: /crmsfa/control/myHomeMain
+    - listitem [ref=f3e68]:
+      - link "Leads" [ref=f3e74] [cursor=pointer]:
+        - /url: /crmsfa/control/leadsMain
+    - listitem [ref=f3e75]:
+      - link "Contacts" [ref=f3e81] [cursor=pointer]:
+        - /url: /crmsfa/control/contactsMain
+    - listitem [ref=f3e82]:
+      - link "Accounts" [ref=f3e88] [cursor=pointer]:
+        - /url: /crmsfa/control/accountsMain
+    - listitem [ref=f3e89]:
+      - link "Cases" [ref=f3e95] [cursor=pointer]:
+        - /url: /crmsfa/control/casesMain
+    - listitem [ref=f3e96]:
+      - link "Activities" [ref=f3e102] [cursor=pointer]:
+        - /url: /crmsfa/control/activitiesMain
+    - listitem [ref=f3e103]:
+      - link "Opportunities" [ref=f3e109] [cursor=pointer]:
+        - /url: /crmsfa/control/opportunitiesMain
+    - listitem [ref=f3e110]:
+      - link "Quotes" [ref=f3e116] [cursor=pointer]:
+        - /url: /crmsfa/control/quotesMain
+    - listitem [ref=f3e117]:
+      - link "Orders" [ref=f3e123] [cursor=pointer]:
+        - /url: /crmsfa/control/ordersMain
+    - listitem [ref=f3e124]:
+      - link "opentaps" [ref=f3e130] [cursor=pointer]:
+        - /url: /opentaps?externalLoginKey=EL722284105140
+  - table [ref=f3e133]:
+    - rowgroup [ref=f3e134]:
+      - row [ref=f3e135]:
+        - 'cell "Last Viewed: Morgan Ellis (Alder Creek… Jordan Automation (Copilo… Major McDermott (Yost Inc… Bertrand Sawayn (Monahan … Demetris Windler (Pagac, … Roxane Ondricka (Kling - … Taylor Morgan (Northstar …" [ref=f3e136]':
+          - list [ref=f3e137]:
+            - listitem [ref=f3e138]:
+              - generic [ref=f3e139]: "Last Viewed:"
+            - listitem [ref=f3e140]:
+              - link "Morgan Ellis (Alder Creek…" [ref=f3e141] [cursor=pointer]:
+                - /url: /crmsfa/control/viewLead?partyId=10501
+            - listitem [ref=f3e142]:
+              - link "Jordan Automation (Copilo…" [ref=f3e143] [cursor=pointer]:
+                - /url: /crmsfa/control/viewLead?partyId=10500
+            - listitem [ref=f3e144]:
+              - link "Major McDermott (Yost Inc…" [ref=f3e145] [cursor=pointer]:
+                - /url: /crmsfa/control/viewLead?partyId=10498
+            - listitem [ref=f3e146]:
+              - link "Bertrand Sawayn (Monahan …" [ref=f3e147] [cursor=pointer]:
+                - /url: /crmsfa/control/viewLead?partyId=10497
+            - listitem [ref=f3e148]:
+              - link "Demetris Windler (Pagac, …" [ref=f3e149] [cursor=pointer]:
+                - /url: /crmsfa/control/viewLead?partyId=10496
+            - listitem [ref=f3e150]:
+              - link "Roxane Ondricka (Kling - …" [ref=f3e151] [cursor=pointer]:
+                - /url: /crmsfa/control/viewLead?partyId=10495
+            - listitem [ref=f3e152]:
+              - link "Taylor Morgan (Northstar …" [ref=f3e153] [cursor=pointer]:
+                - /url: /crmsfa/control/viewLead?partyId=10494
+  - generic [ref=f3e155]:
+    - generic [ref=f3e156]:
+      - generic [ref=f3e157]:
+        - generic [ref=f3e158]: Shortcuts
+        - list [ref=f3e164]:
+          - listitem [ref=f3e165]:
+            - link "Create Lead" [ref=f3e166] [cursor=pointer]:
+              - /url: /crmsfa/control/createLeadForm
+          - listitem [ref=f3e167]:
+            - link "Create Account" [ref=f3e168] [cursor=pointer]:
+              - /url: /crmsfa/control/createAccountForm
+          - listitem [ref=f3e169]:
+            - link "Create Contact" [ref=f3e170] [cursor=pointer]:
+              - /url: /crmsfa/control/createContactForm
+          - listitem [ref=f3e171]:
+            - link "Create Quote" [ref=f3e172] [cursor=pointer]:
+              - /url: /crmsfa/control/EditQuote
+          - listitem [ref=f3e173]:
+            - link "Create Case" [ref=f3e174] [cursor=pointer]:
+              - /url: /crmsfa/control/createCaseForm
+          - listitem [ref=f3e175]:
+            - link "Create Order" [ref=f3e176] [cursor=pointer]:
+              - /url: /crmsfa/control/createOrderMainScreen
+          - listitem [ref=f3e177]:
+            - link "Write Email" [ref=f3e178] [cursor=pointer]:
+              - /url: /crmsfa/control/writeEmail
+          - listitem [ref=f3e179]:
+            - link "Log Call" [ref=f3e180] [cursor=pointer]:
+              - /url: /crmsfa/control/logTaskForm?workEffortPurposeTypeId=WEPT_TASK_PHONE_CALL
+          - listitem [ref=f3e181]:
+            - link "New Task" [ref=f3e182] [cursor=pointer]:
+              - /url: /crmsfa/control/createTaskForm?workEffortTypeId=TASK
+          - listitem [ref=f3e183]:
+            - link "New Event" [ref=f3e184] [cursor=pointer]:
+              - /url: /crmsfa/control/createEventForm?workEffortTypeId=EVENT
+      - generic [ref=f3e187]:
+        - generic [ref=f3e188]: Create Account
+        - generic [ref=f3e194]:
+          - generic [ref=f3e199]:
+            - generic [ref=f3e200]:
+              - text: "Account Name:"
+              - textbox "Account Name:" [ref=f3e202]
+            - generic [ref=f3e205]:
+              - text: "Phone Number:"
+              - table [ref=f3e209]:
+                - rowgroup [ref=f3e210]:
+                  - row [ref=f3e211]:
+                    - cell [ref=f3e212]:
+                      - textbox [ref=f3e216]: "1"
+                    - cell [ref=f3e217]:
+                      - textbox [ref=f3e221]
+                    - cell [ref=f3e222]:
+                      - textbox [ref=f3e226]
+            - generic [ref=f3e227]:
+              - text: "E-Mail Address:"
+              - textbox "E-Mail Address:" [ref=f3e229]
+          - table [ref=f3e236]:
+            - rowgroup [ref=f3e237]:
+              - row [ref=f3e238]:
+                - cell [ref=f3e239]:
+                  - table [ref=f3e240] [cursor=pointer]:
+                    - rowgroup [ref=f3e241]:
+                      - row "Create Account" [ref=f3e242]:
+                        - cell [ref=f3e243]
+                        - cell [ref=f3e245]:
+                          - emphasis [ref=f3e246]:
+                            - button "Create Account" [ref=f3e247]
+                        - cell [ref=f3e248]
+      - generic [ref=f3e250]: Create Contact
+      - generic [ref=f3e258]: Create Case
+      - generic [ref=f3e268]:
+        - generic [ref=f3e269]: Create Lead
+        - generic [ref=f3e275]:
+          - generic [ref=f3e280]:
+            - generic [ref=f3e281]:
+              - text: "Company Name:"
+              - textbox "Company Name:" [ref=f3e283]
+            - generic [ref=f3e284]:
+              - text: "First name:"
+              - textbox "First name:" [ref=f3e286]
+            - generic [ref=f3e287]:
+              - text: "Last name:"
+              - textbox "Last name:" [ref=f3e289]
+            - generic [ref=f3e292]:
+              - text: "Phone Number:"
+              - table [ref=f3e296]:
+                - rowgroup [ref=f3e297]:
+                  - row [ref=f3e298]:
+                    - cell [ref=f3e299]:
+                      - textbox [ref=f3e303]: "1"
+                    - cell [ref=f3e304]:
+                      - textbox [ref=f3e308]
+                    - cell [ref=f3e309]:
+                      - textbox [ref=f3e313]
+            - generic [ref=f3e314]:
+              - text: "E-Mail Address:"
+              - textbox "E-Mail Address:" [ref=f3e316]
+          - table [ref=f3e323]:
+            - rowgroup [ref=f3e324]:
+              - row [ref=f3e325]:
+                - cell [ref=f3e326]:
+                  - table [ref=f3e327] [cursor=pointer]:
+                    - rowgroup [ref=f3e328]:
+                      - row "Create Lead" [ref=f3e329]:
+                        - cell [ref=f3e330]
+                        - cell [ref=f3e332]:
+                          - emphasis [ref=f3e333]:
+                            - button "Create Lead" [ref=f3e334]
+                        - cell [ref=f3e335]
+    - generic [ref=f3e337]:
+      - generic [ref=f3e338]: My Home
+      - generic [ref=f3e348]:
+        - generic [ref=f3e349]:
+          - generic [ref=f3e353]:
+            - generic [ref=f3e354] [cursor=pointer]: My Calendar
+            - generic [ref=f3e355]:
+              - link "Day" [ref=f3e356] [cursor=pointer]:
+                - /url: myHome?calendarView=day
+              - link "Week" [ref=f3e357] [cursor=pointer]:
+                - /url: myHome?calendarView=week
+              - link "Month" [ref=f3e358] [cursor=pointer]:
+                - /url: myHome?calendarView=month
+              - generic [ref=f3e359] [cursor=pointer]
+          - generic [ref=f3e360]:
+            - table [ref=f3e361]:
+              - rowgroup [ref=f3e362]:
+                - row [ref=f3e363]:
+                  - cell "Saturday October 3, 2026" [ref=f3e364]
+                  - cell [ref=f3e365]:
+                    - link "Previous" [ref=f3e366] [cursor=pointer]:
+                      - /url: /crmsfa/control/myHome?calendarView=day&start=1790899200000
+                    - text: "|"
+                    - link "Today" [ref=f3e367] [cursor=pointer]:
+                      - /url: /crmsfa/control/myHome?calendarView=day&start=1790985600000
+                    - text: "|"
+                    - link "Next" [ref=f3e368] [cursor=pointer]:
+                      - /url: /crmsfa/control/myHome?calendarView=day&start=1791072000000
+            - table [ref=f3e369]:
+              - rowgroup [ref=f3e370]:
+                - row [ref=f3e371]:
+                  - cell "8:00 AM" [ref=f3e372]:
+                    - text: 8:00 AM
+                    - link [ref=f3e373] [cursor=pointer]:
+                      - /url: /crmsfa/control/createEventForm?estimatedStartDate=10/3/26%2008:00:00
+                  - cell [ref=f3e375]
+                - row [ref=f3e376]:
+                  - cell "9:00 AM" [ref=f3e377]:
+                    - text: 9:00 AM
+                    - link [ref=f3e378] [cursor=pointer]:
+                      - /url: /crmsfa/control/createEventForm?estimatedStartDate=10/3/26%2009:00:00
+                  - cell [ref=f3e380]
+                - row [ref=f3e381]:
+                  - cell "10:00 AM" [ref=f3e382]:
+                    - text: 10:00 AM
+                    - link [ref=f3e383] [cursor=pointer]:
+                      - /url: /crmsfa/control/createEventForm?estimatedStartDate=10/3/26%2010:00:00
+                  - cell [ref=f3e385]
+                - row [ref=f3e386]:
+                  - cell "11:00 AM" [ref=f3e387]:
+                    - text: 11:00 AM
+                    - link [ref=f3e388] [cursor=pointer]:
+                      - /url: /crmsfa/control/createEventForm?estimatedStartDate=10/3/26%2011:00:00
+                  - cell [ref=f3e390]
+                - row [ref=f3e391]:
+                  - cell "12:00 PM" [ref=f3e392]:
+                    - text: 12:00 PM
+                    - link [ref=f3e393] [cursor=pointer]:
+                      - /url: /crmsfa/control/createEventForm?estimatedStartDate=10/3/26%2012:00:00
+                  - cell [ref=f3e395]
+                - row [ref=f3e396]:
+                  - cell "1:00 PM" [ref=f3e397]:
+                    - text: 1:00 PM
+                    - link [ref=f3e398] [cursor=pointer]:
+                      - /url: /crmsfa/control/createEventForm?estimatedStartDate=10/3/26%2013:00:00
+                  - cell [ref=f3e400]
+                - row [ref=f3e401]:
+                  - cell "2:00 PM" [ref=f3e402]:
+                    - text: 2:00 PM
+                    - link [ref=f3e403] [cursor=pointer]:
+                      - /url: /crmsfa/control/createEventForm?estimatedStartDate=10/3/26%2014:00:00
+                  - cell [ref=f3e405]
+                - row [ref=f3e406]:
+                  - cell "3:00 PM" [ref=f3e407]:
+                    - text: 3:00 PM
+                    - link [ref=f3e408] [cursor=pointer]:
+                      - /url: /crmsfa/control/createEventForm?estimatedStartDate=10/3/26%2015:00:00
+                  - cell [ref=f3e410]
+                - row [ref=f3e411]:
+                  - cell "4:00 PM" [ref=f3e412]:
+                    - text: 4:00 PM
+                    - link [ref=f3e413] [cursor=pointer]:
+                      - /url: /crmsfa/control/createEventForm?estimatedStartDate=10/3/26%2016:00:00
+                  - cell [ref=f3e415]
+                - row [ref=f3e416]:
+                  - cell "5:00 PM" [ref=f3e417]:
+                    - text: 5:00 PM
+                    - link [ref=f3e418] [cursor=pointer]:
+                      - /url: /crmsfa/control/createEventForm?estimatedStartDate=10/3/26%2017:00:00
+                  - cell [ref=f3e420]
+                - row [ref=f3e421]:
+                  - cell "6:00 PM" [ref=f3e422]:
+                    - text: 6:00 PM
+                    - link [ref=f3e423] [cursor=pointer]:
+                      - /url: /crmsfa/control/createEventForm?estimatedStartDate=10/3/26%2018:00:00
+                  - cell [ref=f3e425]
+        - generic [ref=f3e430]:
+          - generic [ref=f3e431] [cursor=pointer]: Pending Inbound Emails
+          - generic [ref=f3e432]:
+            - link "Owned by Me Only" [ref=f3e433] [cursor=pointer]:
+              - /url: /crmsfa/control/myHome?viewPrefTypeId=EMAILS_MINE_OWNED
+            - generic [ref=f3e434] [cursor=pointer]
+        - generic [ref=f3e439]:
+          - generic [ref=f3e440] [cursor=pointer]: Pending Outbound Emails
+          - generic [ref=f3e442] [cursor=pointer]
+      - generic [ref=f3e443]:
+        - generic [ref=f3e444]:
+          - link "Opentaps Open Source ERP + CRM" [ref=f3e445] [cursor=pointer]:
+            - /url: http://www.opentaps.org
+          - text: 1.5.0. opentaps is a trademark of
+          - link "Open Source Strategies, Inc." [ref=f3e446] [cursor=pointer]:
+            - /url: http://www.opentaps.org
+        - generic [ref=f3e447]:
+          - text: This application is free software under the terms of the
+          - link "Affero General Public License v3" [ref=f3e448] [cursor=pointer]:
+            - /url: http://www.opentaps.org/about-opentaps/licensing
+          - text: WITH ABSOLUTELY NO WARRANTY. It is also available under
+          - link "commercial licenses" [ref=f3e449] [cursor=pointer]:
+            - /url: http://www.opentaps.org/services-support/professional-edition
+          - text: from Open Source Strategies, Inc.
+        - generic [ref=f3e450]:
+          - text: (c)
+          - link "Open Source Strategies, Inc." [ref=f3e451] [cursor=pointer]:
+            - /url: http://www.opentaps.org
+        - generic [ref=f3e452]:
+          - text: To learn more about opentaps, follow us on
+          - link [ref=f3e453] [cursor=pointer]:
+            - /url: http://www.facebook.com/pages/opentaps/285070770315
+            - img "Facebook" [ref=f3e454]
+          - text: And
+          - link [ref=f3e455] [cursor=pointer]:
+            - /url: http://twitter.com/opentaps
+            - img "twitter" [ref=f3e456]
+  - iframe
+  - iframe

@@ -1,0 +1,98 @@
+[     895ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://leaftaps.com/crmsfa/control/createLeadForm:0
+[   37021ms] [LOG] Sat Oct 03 16:24:54 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.form.base.ScreenletFormPanel::before ViewPreferenceService::get] has pref type id? @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37022ms] [LOG] Sat Oct 03 16:24:54 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.form.base.ScreenletFormPanel::before ViewPreferenceService::get] has pref type id: GWT_QK_ACCOUNT @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37023ms] [LOG] Sat Oct 03 16:24:54 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.services.Service::request] posting request @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37054ms] [LOG] Sat Oct 03 16:24:54 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.form.base.ScreenletFormPanel::before ViewPreferenceService::get] has pref type id? @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37054ms] [LOG] Sat Oct 03 16:24:54 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.form.base.ScreenletFormPanel::before ViewPreferenceService::get] has pref type id: GWT_QK_CONTACT @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37054ms] [LOG] Sat Oct 03 16:24:54 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.services.Service::request] posting request @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37067ms] [LOG] Sat Oct 03 16:24:54 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.form.base.ScreenletFormPanel::before ViewPreferenceService::get] has pref type id? @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37067ms] [LOG] Sat Oct 03 16:24:54 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.form.base.ScreenletFormPanel::before ViewPreferenceService::get] has pref type id: GWT_QK_LEAD @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37068ms] [LOG] Sat Oct 03 16:24:54 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.services.Service::request] posting request @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37081ms] [LOG] Sat Oct 03 16:24:54 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.form.base.ScreenletFormPanel::before ViewPreferenceService::get] has pref type id? @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37082ms] [LOG] Sat Oct 03 16:24:54 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.form.base.ScreenletFormPanel::before ViewPreferenceService::get] has pref type id: GWT_QK_CASE @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37082ms] [LOG] Sat Oct 03 16:24:54 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.services.Service::request] posting request @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37115ms] [LOG] Sat Oct 03 16:24:54 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.services.Service::request] onResponseReceived, response = com.google.gwt.http.client.Request$1@6e @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37117ms] [LOG] Sat Oct 03 16:24:54 GMT+530 2026 OpentapsGwt
+FINE: [org.opentaps.gwt.common.client.form.ServiceErrorReader::XXXX] {"response":[{"responseMessage":"success", "viewPrefValue":"GWT_EXPANDED"}], "total":1, "success":true} @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37119ms] [LOG] Sat Oct 03 16:24:54 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.form.base.ScreenletFormPanel::ViewPreferenceService::get] got result: GWT_EXPANDED @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37119ms] [LOG] Sat Oct 03 16:24:54 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.form.base.ScreenletFormPanel::ViewPreferenceService::get] expanding... @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37129ms] [LOG] Sat Oct 03 16:24:54 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.form.base.ScreenletFormPanel::ViewPreferenceService::get] lastSyncedState = GWT_EXPANDED @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37141ms] [LOG] Sat Oct 03 16:24:54 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.services.Service::request] onResponseReceived, response = com.google.gwt.http.client.Request$1@6f @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37141ms] [LOG] Sat Oct 03 16:24:54 GMT+530 2026 OpentapsGwt
+FINE: [org.opentaps.gwt.common.client.form.ServiceErrorReader::XXXX] {"response":[{"responseMessage":"success", "viewPrefValue":"GWT_EXPANDED"}], "total":1, "success":true} @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37141ms] [LOG] Sat Oct 03 16:24:54 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.form.base.ScreenletFormPanel::ViewPreferenceService::get] got result: GWT_EXPANDED @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37142ms] [LOG] Sat Oct 03 16:24:54 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.form.base.ScreenletFormPanel::ViewPreferenceService::get] expanding... @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37151ms] [LOG] Sat Oct 03 16:24:54 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.form.base.ScreenletFormPanel::ViewPreferenceService::get] lastSyncedState = GWT_EXPANDED @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37152ms] [LOG] Sat Oct 03 16:24:54 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.services.Service::request] onResponseReceived, response = com.google.gwt.http.client.Request$1@70 @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37153ms] [LOG] Sat Oct 03 16:24:54 GMT+530 2026 OpentapsGwt
+FINE: [org.opentaps.gwt.common.client.form.ServiceErrorReader::XXXX] {"response":[{"responseMessage":"success", "viewPrefValue":"GWT_EXPANDED"}], "total":1, "success":true} @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37153ms] [LOG] Sat Oct 03 16:24:54 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.form.base.ScreenletFormPanel::ViewPreferenceService::get] got result: GWT_EXPANDED @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37154ms] [LOG] Sat Oct 03 16:24:54 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.form.base.ScreenletFormPanel::ViewPreferenceService::get] expanding... @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37157ms] [LOG] Sat Oct 03 16:24:54 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.form.base.ScreenletFormPanel::ViewPreferenceService::get] lastSyncedState = GWT_EXPANDED @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37163ms] [LOG] Sat Oct 03 16:24:54 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.services.Service::request] onResponseReceived, response = com.google.gwt.http.client.Request$1@71 @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37163ms] [LOG] Sat Oct 03 16:24:54 GMT+530 2026 OpentapsGwt
+FINE: [org.opentaps.gwt.common.client.form.ServiceErrorReader::XXXX] {"response":[{"responseMessage":"success", "viewPrefValue":"GWT_EXPANDED"}], "total":1, "success":true} @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37163ms] [LOG] Sat Oct 03 16:24:54 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.form.base.ScreenletFormPanel::ViewPreferenceService::get] got result: GWT_EXPANDED @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37164ms] [LOG] Sat Oct 03 16:24:54 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.form.base.ScreenletFormPanel::ViewPreferenceService::get] expanding... @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37166ms] [LOG] Sat Oct 03 16:24:55 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.form.base.ScreenletFormPanel::ViewPreferenceService::get] lastSyncedState = GWT_EXPANDED @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37388ms] [LOG] Sat Oct 03 16:24:55 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.form.base.ScreenletFormPanel::ViewPreferenceService::set] setting new state : GWT_EXPANDED @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37389ms] [LOG] Sat Oct 03 16:24:55 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.services.Service::request] posting request @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37411ms] [LOG] Sat Oct 03 16:24:55 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.form.base.ScreenletFormPanel::ViewPreferenceService::set] setting new state : GWT_EXPANDED @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37411ms] [LOG] Sat Oct 03 16:24:55 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.services.Service::request] posting request @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37419ms] [LOG] Sat Oct 03 16:24:55 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.form.base.ScreenletFormPanel::ViewPreferenceService::set] setting new state : GWT_EXPANDED @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37420ms] [LOG] Sat Oct 03 16:24:55 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.services.Service::request] posting request @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37427ms] [LOG] Sat Oct 03 16:24:55 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.form.base.ScreenletFormPanel::ViewPreferenceService::set] setting new state : GWT_EXPANDED @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37427ms] [LOG] Sat Oct 03 16:24:55 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.services.Service::request] posting request @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37442ms] [LOG] Sat Oct 03 16:24:55 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.services.Service::request] onResponseReceived, response = com.google.gwt.http.client.Request$1@72 @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37443ms] [LOG] Sat Oct 03 16:24:55 GMT+530 2026 OpentapsGwt
+FINE: [org.opentaps.gwt.common.client.form.ServiceErrorReader::XXXX] {"response":[{"responseMessage":"success"}], "total":1, "success":true} @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37456ms] [LOG] Sat Oct 03 16:24:55 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.services.Service::request] onResponseReceived, response = com.google.gwt.http.client.Request$1@73 @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37456ms] [LOG] Sat Oct 03 16:24:55 GMT+530 2026 OpentapsGwt
+FINE: [org.opentaps.gwt.common.client.form.ServiceErrorReader::XXXX] {"response":[{"responseMessage":"success"}], "total":1, "success":true} @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37495ms] [LOG] Sat Oct 03 16:24:55 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.services.Service::request] onResponseReceived, response = com.google.gwt.http.client.Request$1@74 @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37495ms] [LOG] Sat Oct 03 16:24:55 GMT+530 2026 OpentapsGwt
+FINE: [org.opentaps.gwt.common.client.form.ServiceErrorReader::XXXX] {"response":[{"responseMessage":"success"}], "total":1, "success":true} @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37496ms] [LOG] Sat Oct 03 16:24:55 GMT+530 2026 OpentapsGwt
+INFO: [org.opentaps.gwt.common.client.services.Service::request] onResponseReceived, response = com.google.gwt.http.client.Request$1@75 @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   37497ms] [LOG] Sat Oct 03 16:24:55 GMT+530 2026 OpentapsGwt
+FINE: [org.opentaps.gwt.common.client.form.ServiceErrorReader::XXXX] {"response":[{"responseMessage":"success"}], "total":1, "success":true} @ https://leaftaps.com/crmsfagwt/org.opentaps.gwt.crmsfa.crmsfa/299DF1ACC2B8A1B6C60B12E6DAA0D120.cache.html:6690
+[   87943ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://leaftaps.com/crmsfa/control/logout:0

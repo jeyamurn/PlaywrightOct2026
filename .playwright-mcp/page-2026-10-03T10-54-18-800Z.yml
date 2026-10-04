@@ -1,0 +1,32 @@
+- generic [ref=e1]:
+  - link [ref=e5] [cursor=pointer]:
+    - /url: /opentaps/
+    - img "opentaps CRM" [ref=e6]
+  - generic [ref=e7]:
+    - link "Shortcuts" [ref=e9] [cursor=pointer]:
+      - /url: javascript:showKeyboardShortcutsHelp();
+    - link [ref=e12] [cursor=pointer]:
+      - /url: http://www.opentaps.org/contact
+      - img "Get help from an opentaps Partner" [ref=e13]
+  - generic [ref=e17]:
+    - generic [ref=e19]:
+      - generic [ref=e20]: Opentaps CRMSFA Login
+      - table [ref=e27]:
+        - rowgroup [ref=e28]:
+          - row [ref=e29]:
+            - cell "Username" [ref=e30]
+            - cell [ref=e31]:
+              - textbox [active] [ref=e32]
+          - row [ref=e33]:
+            - cell "Password" [ref=e34]
+            - cell [ref=e35]:
+              - textbox [ref=e36]
+          - row [ref=e37]:
+            - cell [ref=e38]:
+              - button "Login" [ref=e39] [cursor=pointer]
+    - generic [ref=e41]:
+      - generic [ref=e42]: Forgot Your Password?
+      - generic [ref=e48]:
+        - text: Username
+        - textbox [ref=e49]
+        - button "Email Password" [ref=e51] [cursor=pointer]
