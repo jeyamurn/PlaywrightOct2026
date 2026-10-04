@@ -29,7 +29,10 @@ jobs:
 
       - name: Run Playwright tests
         run: npx playwright test
-
+        env:
+          LEAFTAPS_USERNAME: ${{ secrets.LEAFTAPS_USERNAME }}
+          LEAFTAPS_PASSWORD: ${{ secrets.LEAFTAPS_PASSWORD }}
+          
       - name: Upload Playwright report
         if: ${{ !cancelled() }}
         uses: actions/upload-artifact@v4
